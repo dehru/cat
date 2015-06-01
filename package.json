@@ -1,0 +1,9 @@
+{
+    "name": "cat",
+    "description": "cat module depends on air and water",
+    "version": "0.0.0",
+    "private": true,
+    "dependencies": {
+        "underscore": "1.8.2"
+    }
+}
